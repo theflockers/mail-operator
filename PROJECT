@@ -1,0 +1,9 @@
+domain: lmendes.info
+layout:
+- go.kubebuilder.io/v3
+plugins:
+  manifests.sdk.operatorframework.io/v2: {}
+  scorecard.sdk.operatorframework.io/v2: {}
+projectName: mail-operator
+repo: github.com/theflockers/mail-operator
+version: "3"
